@@ -1,0 +1,9 @@
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\bin\Debug\Modelos.dll
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\obj\Debug\Modelos.dll
+C:\Users\Estudiante\source\repos\MetodoLeer\Modelos\obj\Debug\Modelos.pdb
