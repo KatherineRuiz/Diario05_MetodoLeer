@@ -1,6 +1,6 @@
 create database MetodoLeer
 go
-use MotodoLeer;
+use MetodoLeer;
 go
 
 create table Peliculas(
